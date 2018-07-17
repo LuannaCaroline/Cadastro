@@ -1,0 +1,10 @@
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\bin\Debug\Cadastro de Membros.exe.config
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\bin\Debug\Cadastro de Membros.exe
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\bin\Debug\Cadastro de Membros.pdb
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro de Membros.csprojResolveAssemblyReference.cache
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro_de_Membros.Form1.resources
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro_de_Membros.Properties.Resources.resources
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro de Membros.csproj.GenerateResource.cache
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro de Membros.csproj.CoreCompileInputs.cache
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro de Membros.exe
+C:\Users\luana.ferreira\source\repos\Cadastro de Membros\Cadastro de Membros\obj\Debug\Cadastro de Membros.pdb
